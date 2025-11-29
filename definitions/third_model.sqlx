@@ -2,5 +2,6 @@ config { type : "view"}
 
 SELECT 
  "Test" as name,
- "test2" as name2
+ "test2" as name2,
+ "test3" as name3
    
