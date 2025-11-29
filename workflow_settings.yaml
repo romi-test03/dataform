@@ -1,0 +1,5 @@
+defaultProject: project-d8040b34-193e-42f2-90f
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.35
+defaultLocation: asia-northeast1  # ← この行を追加（値は手順1で確認したものに合わせる）
