@@ -1,0 +1,6 @@
+config { 
+    type: "view" ,
+    database : "project-d8040b34-193e-42f2-90f" ,
+    schema : "dataform" ,
+    name : "drinks"
+}

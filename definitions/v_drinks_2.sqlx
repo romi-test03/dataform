@@ -1,0 +1,9 @@
+config {
+    type: "view",
+    schema: "dataform"
+}
+
+SELECT
+  *
+FROM
+  ${ref("v_drinks")}

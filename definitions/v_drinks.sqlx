@@ -1,0 +1,10 @@
+config { type:"view"}
+
+SELECT DISTINCT
+ drink_id,
+ drink_name,
+ drink_type
+FROM
+ `project-d8040b34-193e-42f2-90f.dataform.drinks` 
+ORDER BY
+ drink_id
